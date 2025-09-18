@@ -19,23 +19,10 @@ It provides clear insights into **cash flow, overdue amounts, customer payment t
 ---
 
 ## 🛠️ Tech Stack  
-- **Data Source**: SQL / Excel / CSV  
-- **ETL**: Python / Power Query (if used)  
-- **Visualization**: Power BI / Tableau / Excel Dashboard  
+- **Data Source**: Excel / CSV  
+- **ETL**: Power Query   
+- **Visualization**: Power BI Excel Dashboard  
 - **Deployment**: GitHub (this repo)  
-
----
-
-## 📷 Dashboard Preview  
-
-### 1. Overall AR Summary  
-![Dashboard Overview](images/dashboard-overview.png)  
-
-### 2. Customer Payment Trends  
-![Customer Trends](images/customer-trends.png)  
-
-### 3. Overdue Invoices Breakdown  
-![Overdue Analysis](images/overdue-analysis.png)  
 
 ---
 
