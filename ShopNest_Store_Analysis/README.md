@@ -1,4 +1,4 @@
-#📊 ShopNest Store – Sales Analysis Dashboard (Power BI)
+📊 ShopNest Store – Sales Analysis Dashboard (Power BI)
 🚀 Project Overview
 
 This project is a Power BI Sales Analysis Dashboard created for ShopNest Store.
@@ -7,6 +7,7 @@ It provides deep insights into revenue performance, customer behavior, product r
 The dashboard is designed for business stakeholders to make data-driven decisions and monitor KPIs across various dimensions.
 
 📌 Objectives / Key Business Questions Answered
+
 1️⃣ Top Categories by Total Price
 
 Identify the top revenue-generating product categories using a horizontal bar chart.
@@ -38,6 +39,7 @@ Identify quarterly trends in sales and orders.
 8️⃣ Revenue Analysis (Yearly & Quarterly)
 
 Track Total Revenue changes over time and highlight peaks/troughs.
+
 🛠 Tools & Technologies Used
 
 Power BI Desktop
@@ -51,8 +53,11 @@ Data Modeling (Star Schema)
 CSV/Excel Data Sources
 
 📈 Dashboard Features
+
 ✔ Clean and gradient-themed UI
+
 ✔ Interactive slicers (State, Category, Date)
+
 ✔ KPIs showing key metrics:
 
 Total Revenue
@@ -64,7 +69,9 @@ Avg Order Value
 On-time Delivery %
 
 ✔ Drill-through for delivery analysis
+
 ✔ Advanced visuals (donut charts, combo charts, maps, bar charts)
+
 🔍 Key Insights
 
 Computers category contributes the highest revenue.
