@@ -1,4 +1,4 @@
-📊 ShopNest Store – Sales Analysis Dashboard (Power BI)
+#📊 ShopNest Store – Sales Analysis Dashboard (Power BI)
 🚀 Project Overview
 
 This project is a Power BI Sales Analysis Dashboard created for ShopNest Store.
